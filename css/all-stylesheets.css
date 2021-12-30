@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+/***** Bootstrap v3.3.6 *****/
+@import url("bootstrap/bootstrap.min.css");
+
+/***** Special-Classes *****/
+@import url("special-classes.css");
+
+/***** Headings *****/
+@import url("headings.css");
+
+/***** Buttons *****/
+@import url("buttons.css");
+
+/***** Preloader *****/
+@import url("preloader.css");
+
+/***** Gallery *****/
+@import url("projects/projects.css");
+
+/* Animation Style */
+@import url("animation.css");
+
+/***** Custom-Layout *****/
+@import url("custom-layout.css");
+
+/***** Custom Fonts *****/
+@import url("fonts.css");
+
+/***** Typography *****/
+@import url("typography.css");
+
+/* Owl Carousel */
+@import url("../owl-carousel/css/owl.carousel.css");
+
+/***** FontAwesome *****/
+@import url("../fonts/font-awesome/css/font-awesome.css");
+
+/***** Mobile *****/
+@import url("mobile.css");

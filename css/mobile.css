@@ -1,0 +1,618 @@
+@media screen and (max-width: 1024px) {
+    .services-info .services-infoBox .btn1 {
+        margin: 3px 0 0;
+    }
+
+    .navbar-default .navbar-nav>li {
+        padding: 0 1px;
+    }
+
+    .who-we-are {
+        z-index: 1;
+        position: relative;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .skill-level {
+        padding: 25px;
+        text-align: center;
+    }
+
+    .stat-count {
+        display: inline-block;
+        float: none !important;
+        margin: 0;
+    }
+
+    .skill-level h4 {
+        width: 100%;
+    }
+
+    .partner-heading {
+        width: 100%;
+        border: none;
+        padding: 0;
+        text-align: center;
+    }
+
+    .partner-heading br {
+        display: none;
+    }
+
+    .support-box {
+        text-align: center;
+    }
+
+    .support-box .support-heading {
+        width: 100%;
+        padding: 0 0 20px;
+    }
+
+    .support-box .transparent-btn {
+        float: none !important;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .newsletter {
+        margin-right: 5%;
+        padding: 0;
+        width: 36%;
+    }
+
+    .copyright-section {
+        float: right;
+        margin: 40px 0 0;
+        text-align: center;
+        width: 100%;
+    }
+
+    .copyright-section .logo {
+        float: none !important;
+        margin: 0 auto 20px;
+    }
+
+    .copyright-section .social-icons ul li {
+        display: inline-block;
+        float: none;
+        margin: 0 10px 0 0;
+    }
+
+    /****************404***************/
+    .error-box h1 {
+        font-size: 190px;
+        line-height: 200px;
+    }
+
+    /******************LOGIN***************/
+    .login-box .login-btn, .login-box .signup-btn {
+        margin: 0;
+        min-width: 135px;
+    }
+
+    /******************SERVICES***************/
+    .services-plans {
+        margin: 10px 0;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .banner-text {
+        background-color: rgba(15, 25, 35, 0.6);
+    }
+
+    .banner-img {
+        display: none;
+    }
+
+    .explore-services {
+        left: 0;
+    }
+
+    .header, .partner-logos {
+        text-align: center;
+    }
+
+    .logo {
+        /* float: none !important;
+        text-align: center;
+        margin: 0 auto 20px */
+    }
+
+    .header .navbar-nav, .header .navbar-default {
+        /* width: 100%; */
+        margin-top: 10px;
+    }
+
+    .navbar-nav>li {
+        float: none;
+        display: inline-block;
+    }
+
+    .nav-margin {
+        margin: 160px 0 0;
+    }
+
+    .spacer {
+        height: 30px;
+    }
+
+    .services-info .services-infoBox .btn1 {
+        margin: 6px 0 0;
+    }
+
+    .col-lg-3.col-md-3.col-sm-6.col-xs-12.imghvr-push-down {
+        margin: 10px 0 0;
+    }
+
+    h1 {
+        font-size: 36px;
+        line-height: 38px;
+    }
+
+    .business-imagebox {
+        display: inline-block;
+        float: none;
+        margin: 5px auto;
+    }
+
+    .skill-level, .advisor-box {
+        margin: 5px 0;
+    }
+
+    .paddingBox {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .help-business .news-img, .news-info, .investment-box .news-img {
+        text-align: center;
+    }
+
+    .news-img::after {
+        display: none;
+    }
+
+    .investment-box {
+        margin: 20px 0 0;
+    }
+
+    .investment-box .news-info .date {
+        margin: 0
+    }
+
+    .newsletter, .sitemap, .twitter-feeds {
+        display: none;
+    }
+
+    .copyright-section {
+        margin: 0;
+    }
+
+    /*****************ABOUT US***************/
+    .sub-banner-text {
+        text-align: center;
+        padding: 0;
+        z-index: 1;
+        position: relative;
+        background-color: rgba(15, 25, 35, 0.6);
+    }
+
+    .breadcrumb {
+        left: 0;
+        right: 0;
+    }
+
+    /***************BLOG********************/
+    .meet-advisors figure img {
+        width: auto;
+    }
+
+    .sidebar {
+        margin: 20px 0 0;
+    }
+
+    .meet-advisors {
+        margin: 20px 0;
+    }
+
+    /**************BLOG POST**************/
+    .comments-box figure {
+        width: 15%;
+    }
+
+    .comments-box>div {
+        width: 85%;
+    }
+
+    .comments-box.comments-reply figure {
+        width: 18%;
+    }
+
+    .comments-box.comments-reply>div {
+        width: 82%;
+    }
+
+    .comments-reply {
+        margin-left: 15%;
+    }
+
+    /****************CONTACT************/
+    .contact-info {
+        padding: 20px 0 0;
+        text-align: center;
+    }
+
+    .contact-info figure {
+        margin: 0 !important;
+        float: none !important;
+    }
+
+    .contact-links {
+        width: 100%;
+    }
+
+    /****************404***************/
+    .error-banner-img, .login-banner-img {
+        display: none;
+    }
+
+    .error-box, .login-box {
+        background-color: rgba(15, 25, 35, 0.6)
+    }
+
+    /***************PRICING TABLES**************/
+    .plan1 {
+        margin: 0;
+        padding: 20px 2%;
+    }
+
+    .pakage_price span.numeric {
+        font-size: 48px;
+        line-height: 48px;
+    }
+
+    .plan1 ul {
+        margin: 0;
+    }
+
+    .plan1 ul li {
+        font-size: 12px;
+        line-height: 18px;
+        padding: 5px 0;
+    }
+
+    .pakage_price span.doller {
+        top: -12px;
+    }
+
+    .plan1 .btn {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 10px 16px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .navbar-default .navbar-toggle {
+        border-color: #0f1923;
+        background-color: #0f1923;
+    }
+
+    .navbar-toggle {
+        margin: 0;
+    }
+
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: #51c5eb;
+        border-color: #51c5eb;
+    }
+
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+        border: none;
+    }
+
+    .navbar-nav {
+        padding: 10px;
+        margin: 10px 0 0;
+        border-radius: 4px;
+        box-shadow: 0 0 0 1px #0f1923 inset
+    }
+
+    .navbar-default .navbar-nav>li {
+        padding: 1px 0 0;
+        width: 100%;
+    }
+
+    .advisor-box:hover figure, .advisor-box.active figure {
+        left: 0px;
+    }
+
+    .support-heading {
+        font-size: 25px;
+    }
+
+    /************CONTACT**************/
+    .contact-form ul li {
+        width: 100%;
+        margin: 0 0 10px;
+    }
+
+    .contact-form ul li input[type="text"], .contact-form ul li input[type="email"], .contact-form ul li input[type="tel"] {
+        padding: 10px 2%;
+    }
+
+    .contact-form .comments textarea {
+        padding: 10px 2%;
+    }
+
+    .location-map iframe {
+        height: 250px;
+    }
+
+    /******************PROJECTS*****************/
+    .project-filter-links {
+        font-size: 15px;
+        padding: 0 10px;
+    }
+
+    #gallery-content-center li {
+        margin: 20px 0 0;
+    }
+
+    #gallery-content {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .navbar-nav>li>.dropdown-menu {
+        min-width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .navbar-nav>li>.dropdown-menu ul {
+        padding: 0 10px;
+    }
+
+    .navbar-nav>li>.dropdown-menu ul li a {
+        font-size: 13px;
+        line-height: 30px;
+        padding: 0 5px;
+    }
+
+    .navbar-nav>li>.dropdown-menu ul li a i {
+        margin-right: 5px;
+    }
+
+    h1 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    .paddingBox {
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+
+    .banner-outer {
+        background-position: left top;
+    }
+
+    .news-img img, .business-meeting-img img {
+        width: 100%;
+    }
+
+    .logo-background {
+        background-size: contain;
+    }
+
+    /*****************ABOUT US*************/
+    .company-graph figure img {
+        width: 88%
+    }
+
+    /***************BLOG*****************/
+    .meta ul li {
+        font-size: 12px;
+        margin: 0 2px 0 0;
+    }
+
+    .meta ul li i {
+        margin: 0;
+    }
+
+    .meta ul li a {
+        padding: 0;
+    }
+
+    .blog-text h3 {
+        margin: 5px 0 10px;
+    }
+
+    /**************BLOG POST**************/
+    .comments-box figure {
+        width: 22%;
+    }
+
+    .comments-box>div {
+        width: 78%;
+    }
+
+    .comments-box.comments-reply figure {
+        width: 27%;
+    }
+
+    .comments-box.comments-reply>div {
+        width: 73%;
+    }
+
+    .comments-reply {
+        margin-left: 22%;
+    }
+
+    /**************CONTACT**************/
+    .contact-links {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    /****************404***************/
+    .error-box {
+        padding: 0 20px;
+    }
+
+    .error-box ul li {
+        font-size: 14px;
+        margin: 0 4px;
+    }
+
+    /*********************FAQ*****************/
+    .panel-body {
+        text-align: center;
+    }
+
+    .faq-accordion .panel-body figure {
+        float: none;
+        margin: 0 0 15px;
+    }
+
+    .faq-accordion .panel-title a {
+        padding: 14px;
+        font-size: 14px;
+    }
+
+    /**********************LOGIN**************/
+    .login-box {
+        padding: 0 30px;
+    }
+
+    .login-box h1 {
+        font-size: 60px;
+        line-height: 60px;
+    }
+
+    /******************PROJECTS*****************/
+    .project-filter-links {
+        font-size: 14px;
+        padding: 0 8px;
+    }
+
+    .project-details>div {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .navbar-nav>li>.dropdown-menu ul {
+        /* width: 100%; */
+        margin-top: 10px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    /**************BLOG POST**************/
+    .white-box .contact-form ul li {
+        width: 100%;
+        margin: 0 0 10px;
+    }
+
+    .white-box .contact-form ul li input[type="text"] {
+        padding: 10px 2%;
+    }
+
+    .white-box .contact-form .comments textarea {
+        margin: 0 0 10px;
+    }
+
+    .comments-box figure {
+        display: none;
+    }
+
+    .comments-box>div, .comments-box.comments-reply>div {
+        width: 100%;
+    }
+
+    .comments-reply {
+        margin-left: 5%;
+    }
+
+    /***************404**************/
+    .error-box #searchform input[type="text"] {
+        width: 85%;
+        padding: 0 10px;
+    }
+
+    .error-box #searchsubmit {
+        width: 15%;
+    }
+
+    /****************LOGIN**************/
+}
+
+@media screen and (max-width: 375px) {
+    h1 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .business-box .transparent-btn {
+        margin: 10px 0 0;
+    }
+
+    .support-box .support-heading {
+        font-size: 18px;
+    }
+
+    .support-box .transparent-btn a {
+        padding: 18px 34px;
+    }
+
+    /***************BLOG**************/
+    .blog-post-box .post-img .date-tag {
+        font-size: 14px;
+        height: 50px;
+        line-height: 14px;
+        padding: 10px 0 0 10px;
+        width: 65px;
+    }
+
+    h3 {
+        font-size: 16px;
+    }
+
+    .white-box {
+        padding: 18px;
+    }
+
+    .contact-form input[type="submit"] {
+        height: 40px;
+        width: 190px;
+    }
+
+    .blog-text {
+        font-size: 13px;
+    }
+
+    /****************404***************/
+    .error-box h1 {
+        font-size: 160px;
+        line-height: 170px;
+    }
+
+    /***********LOGIN**************/
+    .login-box .login-btn, .login-box .signup-btn {
+        min-width: 122px;
+    }
+}
